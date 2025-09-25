@@ -1,0 +1,5 @@
+{
+  "name": "Certificate Code Generator",
+  "description": "A modern tool to generate unique certificate codes based on the TGLN-CA pattern. Easily create and copy codes with a single click.",
+  "requestFramePermissions": []
+}
